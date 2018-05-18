@@ -33,9 +33,9 @@ $ clj -Adev -m cognitect.test-runner
 1. What editor do you tend to use when developing Clojure?
 2. How is your editor configured? Which plugins, if any, do you use?
 3. How much do you use the REPL when developing? How do you start the REPL? Do you interact with it via your editor?
-4. Where do you put scratch code?
-5. How often do you write/run tests? What kinds of tests do you write?
-6. What are your thoughts on application state management frameworks (e.g. component, mount, integrant)? How do you use them (if at all) in your Clojure projects?
+4. What are your thoughts on application state management frameworks (e.g. component, mount, integrant)? How do you use them (if at all) in your Clojure projects?
+5. Where do you put scratch code?
+6. How often do you write/run tests? What kinds of tests do you write?
 
 [boot]: http://boot-clj.com/
 [lein]: https://leiningen.org/
